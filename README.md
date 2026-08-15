@@ -10,6 +10,60 @@ This repository contains my completed work for the **Codveda Technologies Busine
 
 The project focuses on customer churn and retention analysis using **Microsoft Power BI** and **SQL Server**. The analysis combines interactive business intelligence dashboards with SQL-based data analysis, customer segmentation, joins, indexing, and execution-plan review.
 
+
+## Project Visuals
+
+### Task 1 – Power BI Customer Churn & Retention Analytics
+
+#### Executive Dashboard
+
+<p align="center">
+  <img src="Task_1_PowerBI/Executive_Dashboard.png" width="900">
+</p>
+
+#### Business Insights
+
+<p align="center">
+  <img src="Task_1_PowerBI/Business_Insights.png" width="900">
+</p>
+
+---
+
+### Task 2 – SQL Server Business Analytics
+
+#### International Plan Churn Analysis
+
+<p align="center">
+  <img src="Task_2_SQL/SQL_International_Plan.png" width="900">
+</p>
+
+#### Customer Service Calls Analysis
+
+<p align="center">
+  <img src="Task_2_SQL/SQL_Service_Calls.png" width="900">
+</p>
+
+#### Customer Risk Segmentation
+
+<p align="center">
+  <img src="Task_2_SQL/SQL_Risk_Segmentation.png" width="900">
+</p>
+
+#### SQL Indexing
+
+<p align="center">
+  <img src="Task_2_SQL/SQL_Indexes.png" width="900">
+</p>
+
+#### SQL Server Execution Plan
+
+<p align="center">
+  <img src="Task_2_SQL/SQL_Execution_Plan.png" width="900">
+</p>
+
+
+
+
 ## Project Structure
 
 ```text
